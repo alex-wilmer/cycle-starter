@@ -35,6 +35,7 @@
     "@cycle/core": "^6.0.0",
     "@cycle/dom": "^8.0.0",
     "@cycle/history": "^1.1.0",
+    "@cycle/http": "^7.0.0",
     "@cycle/isolate": "^1.0.2",
     "css-loader": "^0.23.0",
     "ramda": "^0.18.0",
